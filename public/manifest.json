@@ -1,6 +1,6 @@
 {
-  "short_name": "CPU Scheduler",
-  "name": "Visualization of CPU scheduling algorithms",
+  "short_name": "RAM Scheduler",
+  "name": "Visualization of RAM allocating algorithms",
   "icons": [
     {
       "src": "favicon.ico",

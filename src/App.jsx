@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import { Select, Button, Visualizer, Legend } from './components';
+import { Select, Button, Visualizer, Legend, Link } from './components';
 import { timelineOptions, algoOptions } from './constants';
 import { parseTimelineString } from './utils';
 
@@ -22,6 +22,7 @@ const App = () => {
 
   return (
     <div className={styles.scheduler}>
+      <Link/>
       <header className={styles.header}>
         <h1 className={styles.title}>RAM scheduler</h1>
         <div className={styles.controls}>

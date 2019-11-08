@@ -1,0 +1,17 @@
+
+
+.legend {
+    margin-top: 10px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.legendItem {
+    margin: 0 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    line-height: 20px;
+    font-size: 14px;
+}

@@ -1,1 +1,1 @@
-Graphic visualisation of 4 cpu scheduling algorithms
+Graphic visualisation of 4 ram allocating algorithms

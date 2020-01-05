@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ram-algorithms/static/css/main.8b12125f.chunk.css",
-    "main.js": "/ram-algorithms/static/js/main.e52754a1.chunk.js",
-    "main.js.map": "/ram-algorithms/static/js/main.e52754a1.chunk.js.map",
+    "main.js": "/ram-algorithms/static/js/main.d95619be.chunk.js",
+    "main.js.map": "/ram-algorithms/static/js/main.d95619be.chunk.js.map",
     "runtime-main.js": "/ram-algorithms/static/js/runtime-main.12d64696.js",
     "runtime-main.js.map": "/ram-algorithms/static/js/runtime-main.12d64696.js.map",
     "static/js/2.0c9434a2.chunk.js": "/ram-algorithms/static/js/2.0c9434a2.chunk.js",
     "static/js/2.0c9434a2.chunk.js.map": "/ram-algorithms/static/js/2.0c9434a2.chunk.js.map",
     "index.html": "/ram-algorithms/index.html",
-    "precache-manifest.3be251891583b53a71e1f59698f11abc.js": "/ram-algorithms/precache-manifest.3be251891583b53a71e1f59698f11abc.js",
+    "precache-manifest.d9289ae93d7a0521f7e59034152e7ffe.js": "/ram-algorithms/precache-manifest.d9289ae93d7a0521f7e59034152e7ffe.js",
     "service-worker.js": "/ram-algorithms/service-worker.js",
     "static/css/main.8b12125f.chunk.css.map": "/ram-algorithms/static/css/main.8b12125f.chunk.css.map"
   }
